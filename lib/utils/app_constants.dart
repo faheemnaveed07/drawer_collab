@@ -12,6 +12,7 @@ const Color dangerColor = Colors.red;
 // ===== TEXT CONSTANTS =====
 const String welcomeText = 'Welcome to homepage';
 const String appBarTitle = 'My App';
+const String myappBarTitle = 'About Me';
 const String drawerHeaderText = 'App Menu';
 //hannan_dev
 String appbartext='test page';
