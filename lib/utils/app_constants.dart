@@ -13,6 +13,9 @@ const Color dangerColor = Colors.red;
 const String welcomeText = 'Welcome to homepage';
 const String appBarTitle = 'My App';
 const String drawerHeaderText = 'App Menu';
+//hannan_dev
+String appbartext='test page';
+
 
 // -- Profile Page Texts --
 const String profileAppBarTitle = "My Profile";
