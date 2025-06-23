@@ -64,7 +64,7 @@ class MyDrawer extends StatelessWidget {
               // Contact Page par navigate karein
               Navigator.pop(context);
 
-               Navigator.push(context, MaterialPageRoute(builder: (context) => const ContactPage()));
+               Navigator.push(context, MaterialPageRoute(builder: (context) =>  ContactPage()));
             },
           ),
         ],
