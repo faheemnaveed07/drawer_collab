@@ -12,6 +12,7 @@ const Color drawerTextColor = Colors.white;
 // Text Constants
 const String welcomeText = 'Welcome to homepage';
 const String appBarTitle = 'My App';
+const String myappBarTitle = 'About Me';
 const String drawerHeaderText = 'App Menu';
 
 // Style Constants
