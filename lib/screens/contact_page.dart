@@ -105,7 +105,7 @@ class _ContactPageState extends State<ContactPage> {
                           controller: _messageController,
                           hint: "Your Message",
                           icon: Icons.message,
-                          maxLines: 3,
+                          maxLines: 4,
                         ),
                         SizedBox(height: 24),
 
