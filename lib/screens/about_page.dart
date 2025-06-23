@@ -69,7 +69,7 @@ class AboutPage extends StatelessWidget {
                     ),
                   ),
                   child: const Text(
-                    'Sign Up',
+                    'Hire Me',
                     style: TextStyle(
                       color: Colors.black,
                       fontSize: 16,
